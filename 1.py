@@ -38,5 +38,5 @@ a=5
 b=3
 c=a+b
 print('wynik działania %(z1)d+%(z2)d= %(z3)d' %{'z1':a,'z2':b,'z3':c})
-print('wynik działania {0:d} + {1:d}= {2:d}',format(a,b,c))
+print('wynik działania {0:d} + {1:d}= {2:d}'.format(a,b,c))
 
