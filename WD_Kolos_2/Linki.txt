@@ -4,14 +4,9 @@ http://wmii.uwm.edu.pl/~piojas/wizdan2022/pandas.html
 http://wmii.uwm.edu.pl/~piojas/wizdan2022/matplotlib.html
 
 Kolos_A
-#zadanie 1
-
-
+# Zadanie 1
 x = np.linspace(15, 30, 30)
-print(x)
 y = np.tan(x)/(np.sin(x)+x)
-print(y)
-
 plt.plot(x, y, ":", label="f(x)=tan(x)/(sin(x)+x)")
 plt.xlabel("x")
 plt.ylabel("f(x)")
