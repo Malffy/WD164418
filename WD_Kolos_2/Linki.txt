@@ -1,1 +1,4 @@
 https://matplotlib.org/stable/plot_types/index - przykłady wykresów matplotlib
+http://wmii.uwm.edu.pl/~piojas/wizdan2022/numpy.html
+http://wmii.uwm.edu.pl/~piojas/wizdan2022/pandas.html
+http://wmii.uwm.edu.pl/~piojas/wizdan2022/matplotlib.html
