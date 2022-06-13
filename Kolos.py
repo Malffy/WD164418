@@ -4,6 +4,9 @@ import numpy as np
 import pandas as pd
 import openpyxl as op
 import scipy as sp
+#panadas 1.4.0
+#matplotlib 3.5.1
+#numpy 1.22.2
 
 # Kolos 2
 
